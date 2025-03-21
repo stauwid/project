@@ -1,0 +1,60 @@
+{
+  "status": "success",
+  "data": [
+    {
+      "id": "1",
+      "nama": "ABC",
+      "url": "https://archive.org/download/H24Band/ABC%20Ambang%20Batas%20Cinta%20~%20Hackers24.mp3"
+    },
+    {
+      "id": "2",
+      "nama": "AKU TAKUT MENCINTAIMU",
+      "url": "https://archive.org/download/H24Band/AKU%20TAKUT%20MENCINTAIMU%20-%20Hackers24.mp3"
+    },
+    {
+      "id": "3",
+      "nama": "BATAS SALAH",
+      "url": "https://archive.org/download/H24Band/BATAS%20SALAH%20-%20Hackers24.mp3"
+    },
+    {
+      "id": "4",
+      "nama": "CERAHKAN AKU",
+      "url": "https://archive.org/download/H24Band/CERAHKAN%20AKU%20-%20Hackers24.mp3"
+    },
+    {
+      "id": "5",
+      "nama": "ERDINA",
+      "url": "https://archive.org/download/H24Band/ERDINA%20-%20Hackers24.mp3"
+    },
+    {
+      "id": "6",
+      "nama": "HINGGA TERBIASA",
+      "url": "https://archive.org/download/H24Band/HINGGA%20TERBIASA%20-%20Hackers24.mp3"
+    },
+    {
+      "id": "7",
+      "nama": "ABC INSTRUMENT",
+      "url": "https://archive.org/download/H24Band/INSTRUMENT%20ABC%20~%20Hackers24.mp3"
+    },
+    {
+      "id": "8",
+      "nama": "LUPAKANLAH",
+      "url": "https://archive.org/download/H24Band/LUPAKANLAH%20-%20Hackers24.mp3"
+    },
+    {
+      "id": "9",
+      "nama": "SAMPAI KUMENGERTI",
+      "url": "https://archive.org/download/H24Band/Sampai%20Kumengerti%20~%20Hackers24.mp3"
+    },
+    {
+      "id": "10",
+      "nama": "TERLALU DINI",
+      "url": "https://archive.org/download/H24Band/TERLALU%20DINI%20-%20Hackers24.mp3"
+    },
+    {
+      "id": "11",
+      "nama": "TERJEBAK",
+      "url": "https://archive.org/download/H24Band/Terjebak%20~%20Hackers24.mp3"
+    }
+  ]
+}
