@@ -1,0 +1,170 @@
+{
+    "status": "success",
+    "data": [
+        {
+            "id": "1",
+            "nama": "Antara Kau Dia Dan Aku",
+            "url": "https://archive.org/download/biarlahkumengalah/Antara%20Kau%20Dia%20Dan%20Aku.mp3"
+        },
+        {
+            "id": "2",
+            "nama": "Awet Muda",
+            "url": "https://archive.org/download/biarlahkumengalah/Awet%20Muda.mp3"
+        },
+        {
+            "id": "3",
+            "nama": "BH Ku Ilang",
+            "url": "https://archive.org/download/biarlahkumengalah/BH%20Ku%20Ilang.mp3"
+        },
+        {
+            "id": "4",
+            "nama": "Biarlah Ku Mengalah",
+            "url": "https://archive.org/download/biarlahkumengalah/Biarlah%20Ku%20Mengalah.mp3"
+        },
+        {
+            "id": "5",
+            "nama": "Biduan",
+            "url": "https://archive.org/download/biarlahkumengalah/Biduan.mp3"
+        },
+        {
+            "id": "6",
+            "nama": "Bimbang",
+            "url": "https://archive.org/download/biarlahkumengalah/Bimbang.mp3"
+        },
+        {
+            "id": "7",
+            "nama": "Bulu Bertemu Bulu",
+            "url": "https://archive.org/download/biarlahkumengalah/Bulu%20Bertemu%20Bulu.mp3"
+        },
+        {
+            "id": "8",
+            "nama": "Cepak Okem (Sopir Bajaj)",
+            "url": "https://archive.org/download/biarlahkumengalah/Cepak%20Okem%20(Sopir%20Bajaj).mp3"
+        },
+        {
+            "id": "9",
+            "nama": "Cinta Merah Jambu",
+            "url": "https://archive.org/download/biarlahkumengalah/Cinta%20Merah%20Jambu.mp3"
+        },
+        {
+            "id": "10",
+            "nama": "Cinta Sabun Mandi",
+            "url": "https://archive.org/download/titip-cintaku/CINTA%20SABUN%20MANDI.mp3"
+        },
+        {
+            "id": "11",
+            "nama": "Cuma Kamu",
+            "url": "https://archive.org/download/biarlahkumengalah/Cuma%20Kamu.mp3"
+        },
+        {
+            "id": "12",
+            "nama": "Duduk Melamun",
+            "url": "https://archive.org/download/biarlahkumengalah/Duduk%20Melamun.mp3"
+        },
+        {
+            "id": "13",
+            "nama": "Gelandangan",
+            "url": "https://archive.org/download/biarlahkumengalah/Gelandangan.mp3"
+        },
+        {
+            "id": "14",
+            "nama": "Hanya Untukmu",
+            "url": "https://archive.org/download/biarlahkumengalah/Hanya%20Untukmu.mp3"
+        },
+        {
+            "id": "15",
+            "nama": "Jemu",
+            "url": "https://archive.org/download/biarlahkumengalah/Jemu.mp3"
+        },
+        {
+            "id": "16",
+            "nama": "Judul Judulan",
+            "url": "https://archive.org/download/titip-cintaku/Judul%20Judulan.mp3"
+        },
+        {
+            "id": "17",
+            "nama": "Kacang Lupa Kulitnya",
+            "url": "https://archive.org/download/biarlahkumengalah/Kacang%20Lupa%20Kulitnya.mp3"
+        },
+        {
+            "id": "18",
+            "nama": "Kereta Malam",
+            "url": "https://archive.org/download/biarlahkumengalah/Kereta%20Malam.mp3"
+        },
+        {
+            "id": "19",
+            "nama": "Kuda Lumping",
+            "url": "https://archive.org/download/biarlahkumengalah/Kuda%20Lumping.mp3"
+        },
+        {
+            "id": "20",
+            "nama": "Kurang Kontrol",
+            "url": "https://archive.org/download/biarlahkumengalah/Kurang%20Kontrol.mp3"
+        },
+        {
+            "id": "21",
+            "nama": "Pengadilan Cinta",
+            "url": "https://archive.org/download/biarlahkumengalah/Pengadilan%20Cinta.mp3"
+        },
+        {
+            "id": "22",
+            "nama": "Relakan Aku Memilih Dia",
+            "url": "https://archive.org/download/titip-cintaku/RELAKAN%20AKU%20MEMILIH%20DIA.mp3"
+        },
+        {
+            "id": "23",
+            "nama": "Sepiring Berdua",
+            "url": "https://archive.org/download/biarlahkumengalah/Sepiring%20Berdua.mp3"
+        },
+        {
+            "id": "24",
+            "nama": "Serba Salah",
+            "url": "https://archive.org/download/biarlahkumengalah/Serba%20Salah.mp3"
+        },
+        {
+            "id": "25",
+            "nama": "Setangkai Bunga Padi",
+            "url": "https://archive.org/download/biarlahkumengalah/Setangkai%20Bunga%20Padi.mp3"
+        },
+        {
+            "id": "26",
+            "nama": "Si Kribo",
+            "url": "https://archive.org/download/biarlahkumengalah/Si%20Kribo.mp3"
+        },
+        {
+            "id": "27",
+            "nama": "Siapa",
+            "url": "https://archive.org/download/biarlahkumengalah/Siapa.mp3"
+        },
+        {
+            "id": "28",
+            "nama": "Singkong Dan Keju",
+            "url": "https://archive.org/download/biarlahkumengalah/Singkong%20Dan%20Keju.mp3"
+        },
+        {
+            "id": "29",
+            "nama": "Suratan",
+            "url": "https://archive.org/download/titip-cintaku/Suratan.mp3"
+        },
+        {
+            "id": "30",
+            "nama": "Tambal Ban",
+            "url": "https://archive.org/download/biarlahkumengalah/Tambal%20Ban.mp3"
+        },
+        {
+            "id": "31",
+            "nama": "Tembok Derita",
+            "url": "https://archive.org/download/biarlahkumengalah/Tembok%20Derita.mp3"
+        },
+        {
+            "id": "32",
+            "nama": "Terajana",
+            "url": "https://archive.org/download/biarlahkumengalah/Terajana.mp3"
+        },
+        {
+            "id": "33",
+            "nama": "Titip Cintaku",
+            "url": "https://archive.org/download/titip-cintaku/Titip%20Cintaku.mp3"
+        }
+    ]
+}
